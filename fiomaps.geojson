@@ -34,19 +34,6 @@
           ]
         ]
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "4_valdellatorre_liboni": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.489285469055176,
-          45.1461954260994
-        ]
-      }
     }
   ]
 }
