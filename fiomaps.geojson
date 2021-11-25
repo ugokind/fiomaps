@@ -4,7 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Lista2": "",
         "4_valdellatorre_liboni": "{   \"type\": \"FeatureCollection\",   \"features\": [     {       \"type\": \"Feature\",       \"properties\": {},       \"geometry\": {         \"type\": \"Polygon\",         \"coordinates\": [           [             [               7.489446401596069,               45.14602895074355             ],             [               7.489532232284546,               45.146233261339745             ],             [               7.489113807678223,               45.14633541636321             ],             [               7.489011883735656,               45.146119755543374             ],             [               7.489446401596069,               45.14602895074355             ]           ]         ]       }     },     {       \"type\": \"Feature\",       \"properties\": {},       \"geometry\": {         \"type\": \"Point\",         \"coordinates\": [           7.489285469055176,           45.1461954260994         ]       }     }   ] }"
       },
       "geometry": {
